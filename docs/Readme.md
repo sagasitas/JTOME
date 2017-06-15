@@ -1,3 +1,10 @@
-J-Tome
+[![DUB](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/sagasitas/JTOME/License.md)
 
-Automatic Washline
+# What is J-Tome?
+lorem ipsum dolor sit amet
+# Contribute
+lorem ipsum dolor sit amet
+## By Code
+lorem ipsum dolor sit amet
+## By $$
+lorem ipsum dolor sit amet
